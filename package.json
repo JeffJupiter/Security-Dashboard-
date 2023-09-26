@@ -1,0 +1,23 @@
+{
+  "name": "security-dashboard",
+  "version": "1.0.0",
+  "description": "\"My Dashboard Application\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffJupiter/Security-Dashboard-.git"
+  },
+  "author": "Jeff Jupiter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeffJupiter/Security-Dashboard-/issues"
+  },
+  "homepage": "https://github.com/JeffJupiter/Security-Dashboard-#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0"
+  }
+}
